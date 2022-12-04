@@ -1,5 +1,5 @@
 import unittest
-from maths_hari_bahadur import addition
+from mathss import addition
 
 class MathsHariBahadurAdditionTest(unittest.TestCase):
     def test_addition(self):

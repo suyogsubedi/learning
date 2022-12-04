@@ -1,5 +1,5 @@
 import unittest
-from maths_hari_bahadur import multiply
+from mathss import multiply
 
 class MathsHariBahadurMultiplicationTest(unittest.TestCase):
     def test_multiplication(self):
